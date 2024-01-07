@@ -9,6 +9,6 @@
 }
 
 div{
-    width: auto;
-    height: auto;
+    width: max-content;
+    height: max-content;
 }
