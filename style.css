@@ -8,7 +8,8 @@
     background-image: url("./Four_background.jpg");
 }
 
-div{
-    width: max-content;
-    height: max-content;
+div
+{
+    width: 100%;
+    height: 100%;
 }
