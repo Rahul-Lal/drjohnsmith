@@ -7,3 +7,8 @@
 {
     background-image: url("./Four_background.jpg");
 }
+
+div{
+    width: auto;
+    height: auto;
+}
