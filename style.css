@@ -12,6 +12,11 @@ body
     background-image: url("./media/Four_background.jpg");
 }
 
+#experience
+{
+    background-image: url("./media/One_background.jpeg");
+}
+
 div
 {
     width: 100%;
