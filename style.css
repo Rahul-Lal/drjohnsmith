@@ -11,6 +11,8 @@ body
 #about
 {
     background-image: url("./media/12_TARDIS.jpg");
+    width: 50%;
+    height: 50%;
     object-fit: scale-down;
 }
 
